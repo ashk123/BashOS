@@ -12,7 +12,8 @@ for using this, you can run the following code (chroot run currently):
 make run
 
 ```
+<br>
 
 ### TODO
 
-1. make BashOS bootable
+- make BashOS bootable
